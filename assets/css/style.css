@@ -1,0 +1,101 @@
+#menu {
+  background-color: blue;
+  text-align: right;
+  font-family: Trebuchet MS;
+  border: 15px groove yellow;
+}
+a {
+  color: white;
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: Impact;
+  text-shadow: 5px 5px 5px black;
+  font-weight: lighter;
+}
+.tagline {
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  line-height: 1px;
+}
+h2 {
+  text-align: center;
+  color: green;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+.content {
+  color: blueviolet;
+  font-size: 19px;
+  text-align: justify;
+  font-family: Poppins;
+}
+#c1 {
+  font-weight: bold;
+}
+button {
+  text-align: center;
+  font-family: Bebas;
+  background-color: crimson;
+  color: beige;
+}
+footer {
+  text-align: center;
+  color: beige;
+  font-family: Bebas;
+  font-size: 16px;
+}
+
+#menu02 {
+  background-color: blue;
+  text-align: right;
+  font-family: Trebuchet MS;
+  border: 15px groove red;
+}
+ul {
+  color: beige;
+  font-family: Raleway;
+  font-size: 24px;
+}
+#contact {
+  color: white;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 20px;
+  line-height: 5px;
+}
+ol {
+  color: aqua;
+  font-family: Poppins;
+  font-size: 25px;
+  line-height: 25px;
+  text-align: center;
+}
+
+#menu03 {
+  background-color: blue;
+  text-align: right;
+  font-family: Trebuchet MS;
+  border: 15px groove blue;
+}
+.tcontent {
+  color: aqua;
+  text-align: justify;
+  font-family: Poppins;
+  line-height: 17px;
+  font-size: 17px;
+  font-weight: normal;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: 595px;
+}
